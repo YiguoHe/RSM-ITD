@@ -6,15 +6,13 @@ We will be open-sourcing our dataset, model, and code in the upcoming period.
 
 ## Dataset Example
 
-
-# Dataset Example
-
 <p align="center">
-  <img src="https://github.com/YiguoHe/RSM-ITD/assets/101794710/56426f89-c65a-44ed-b275-3d2e802e35bf" alt="Dataset Example" width="70%" />
+  <img src="https://github.com/YiguoHe/RSM-ITD/assets/101794710/937dd9c9-27ee-497e-9275-30043a6a579f" alt="Dataset Example" width="70%" />
 </p>
 
-Caption: The image shows a large sports field with a soccer ball and a tennis court. There are several cars parked around the field, and a few cars are parked in the parking lot. There is also a small vehicle parked in front of the field. The sports field is surrounded by a parking lot, and the parking area is filled by a few vehicles.
 
+
+Caption: This image features a beautiful mountain landscape with snow-covered peaks and valleys. The image captures the beauty of the mountain range in its entirety, showcasing the intricate patterns and textures of the terrain.
 
 ## To Do List
 
