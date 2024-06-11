@@ -16,10 +16,11 @@ Caption: This image features a beautiful mountain landscape with snow-covered pe
 
 ## To Do List
 
-1. Pseudo-code and implementation of the A2I algorithm
-2. Checkpoint for the RSM-CLIP model
-3. Caption files for the RSM-ITD dataset
-4. Images for the RSM-ITD dataset (Due to the large file size, this will take some time to organize and upload)
+1. [x] Pseudo-code of the A2I algorithm
+2. [ ] Checkpoint of the RSM-CLIP model
+3. [ ] Caption files of the RSM-ITD dataset
+4. [ ] Images for the RSM-ITD dataset (Due to the large file size, this will take some time to organize and upload)
+5. [ ] Detailed data on the experimental results of Remote Sensing Cross-modal Text–Image Retrieval (RSCTIR) on the RSITMD, RSICD, and UCMcaption test sets.
 
-Stay tuned for updates!
+Stay tuned for updates, thank you!
 
