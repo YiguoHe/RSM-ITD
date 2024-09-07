@@ -8,6 +8,8 @@ We are providing our training data and state-of-the-art models here to promote r
 
 ## 1. RSM-ITD Dataset
 
+The file `RSMITD.csv` provides the captions for the dataset.
+
 You can download our dataset images via Baidu Netdisk:
 
 **Link**: [https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz](https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz)  
