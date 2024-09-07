@@ -8,7 +8,13 @@ We are providing our training data and state-of-the-art models here to promote r
 
 ## 1. RSM-ITD Dataset
 
-We have published our training data on Hugging Face at [this link](https://huggingface.co/datasets/justinhall/RSM-ITD), which includes around 210,000 remote sensing images and 480,000 captions.
+You can download our dataset images via Baidu Netdisk:
+
+**Link**: [https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz](https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz)  
+**Extraction Code**: `vucz`
+
+demo
+
 ![demo](https://github.com/user-attachments/assets/30e8da78-4a18-4de6-8b83-cfa0126b1a6b)
 
 
