@@ -15,7 +15,7 @@ You can download our dataset images via Baidu Netdisk:
 **Link**: [https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz](https://pan.baidu.com/s/1n9lsiyzjYOsDc6W4d4imoQ?pwd=vucz)  
 **Extraction Code**: `vucz`
 
-demo
+Figure: A demo of our Dataset
 
 ![demo](https://github.com/user-attachments/assets/30e8da78-4a18-4de6-8b83-cfa0126b1a6b)
 
