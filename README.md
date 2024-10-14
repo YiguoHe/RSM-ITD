@@ -11,7 +11,8 @@ We are providing our training data and state-of-the-art models here to promote r
 The file `RSMITD.csv` provides the captions for the dataset.
 
 You can download our dataset images via Baidu Netdisk:
-
+Link：https://pan.baidu.com/s/1lJ7EDerxeNxlTb9FyiPQnA?pwd=hkne 
+Code：hkne 
 
 
 
