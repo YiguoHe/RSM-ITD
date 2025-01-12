@@ -1,6 +1,8 @@
 # Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset
 
 Welcome to the official repository of our paper **"Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset"**! This paper has been accepted at **ICONIP 2024**, and we will upload the Arxiv version of the paper soon.
+![image](https://github.com/user-attachments/assets/eaa7cc28-f37d-4528-ab28-b4ef8c63960b)
+
 
 **RSM-ITD** (Remote Sensing Multisource Image-Text Dataset) is a high-quality paired dataset of remote sensing images and captions. **RSM-CLIP** is the fully fine-tuned CLIP model based on RSM-ITD. RSM-CLIP surpasses previous models on various downstream tasks while using much less data compared to other similar models, proving the high quality of RSM-ITD.
 
