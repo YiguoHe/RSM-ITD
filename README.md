@@ -1,4 +1,4 @@
-# RSM-ITD and RSM-CLIP
+# Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset
 
 Welcome to the official repository of our paper **"Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset"**! This paper has been accepted at **ICONIP 2024**, and we will upload the Arxiv version of the paper soon.
 
